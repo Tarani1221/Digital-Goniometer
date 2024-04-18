@@ -10,7 +10,7 @@ By leveraging Inertial Measurement Unit (IMU) sensors, including accelerometers 
 - Potential for integration with AI and machine learning algorithms for advanced functionality.
 
 ## Installation
-1. Clone the repository: `git clone https://github.com/yourusername/digital-goniometer.git`
+1. Clone the repository: `https://github.com/Tarani1221/Digital-Goniometer.git`
 2. Install the required dependencies.
 3. Connect the IMU sensors to the device according to the provided schematics.
 4. Compile and upload the firmware to the device.
